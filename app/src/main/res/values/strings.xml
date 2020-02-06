@@ -1,0 +1,12 @@
+<resources>
+    <!--  STRINGS FOR SQUARE DEVICES -->
+
+    <string name="app_name">SayWatch</string>
+    <string name="hello_world">Welcome to\nSayWatch!</string>
+    <string name="start_text">START</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="score">Score</string>
+    <string name="gameOver">Game Over</string>
+    <string name="highScore">Highscore %1$d</string>
+    <string name="zero">0</string>
+</resources>

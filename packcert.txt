@@ -1,0 +1,2 @@
+packagename:  dev.tabzy.saywatch
+debug-cert-sha1: F8:95:86:DA:7B:96:2F:9B:3E:78:CE:20:08:27:61:90:0E:00:2D:4D
